@@ -28,6 +28,7 @@
         android:id="@+id/text_result1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
         android:textSize="15sp"
         android:textColor="#1F8178"
         android:textStyle="bold"/>
