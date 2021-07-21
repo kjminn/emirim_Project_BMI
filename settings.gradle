@@ -1,0 +1,2 @@
+rootProject.name = "emirim_Project_BMI"
+include ':app'
